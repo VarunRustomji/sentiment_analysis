@@ -14,7 +14,6 @@ with open("positive.txt","r") as f:
                 pos_correct += 1
             pos_count +=1
 
-
 neg_count = 0
 neg_correct = 0
 
